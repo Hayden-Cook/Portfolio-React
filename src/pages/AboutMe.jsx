@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/AboutMe.css';
 
 // AboutMe component. This will show the user a picture and a short bio about myself.
 const AboutMe = () => {

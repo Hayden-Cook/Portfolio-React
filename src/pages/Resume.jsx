@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/Resume.css';
 
 // Resume component. This will show the user my resume and a list of my proficiencies.
 const Resume = () => {

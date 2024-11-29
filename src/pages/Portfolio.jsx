@@ -1,5 +1,6 @@
 import React from 'react';
 import Project from '../components/Project';
+import '../styles/Portfolio.css';
 
 // Portfolio component. This will show the user a list of projects that I have worked on.
 const Portfolio = () => {

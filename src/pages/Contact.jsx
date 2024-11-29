@@ -3,6 +3,8 @@ import React from 'react';
 import { useFormik } from 'formik';
 // importing Yup library to create a validation schema for the form. This will help us to validate the form fields.
 import * as Yup from 'yup';
+// importing the styles for the Contact component.
+import '../styles/Contact.css';
 
 // Contact component. This will show the user a form to contact me.
 const Contact = () => {

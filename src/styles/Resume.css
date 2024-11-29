@@ -1,0 +1,16 @@
+section {
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 1rem;
+    justify-content: center;
+}
+
+
+li {
+    list-style-type: none;
+    display: inline-flex;
+    text-align: center;
+    padding: 1rem;
+    margin: 0 auto;
+}

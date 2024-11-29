@@ -1,5 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import '../styles/Navigation.css';
 
 // Navigation component. This component contains the navigation links, and will be used in the Header component.
 const Navigation = () => {
