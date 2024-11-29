@@ -6,10 +6,10 @@ footer {
     background-color: #222;
     color: #fff;
     font-size: 0.9rem;
+    position: relative;
 }
 
 footer a {
-    color: #00ffcc;
     text-decoration: none;
     margin: 0 0.5rem;
 }
