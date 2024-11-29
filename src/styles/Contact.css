@@ -8,7 +8,7 @@ form {
 
 label {
     font-weight: bold;
-    color: #333;
+    color: black;
 }
 
 input, textarea {
@@ -41,4 +41,13 @@ button:hover {
     color: #ff3333;
     font-size: 0.8rem;
     margin-top: -0.5rem;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+}
+
+div {
+    color: white;
 }

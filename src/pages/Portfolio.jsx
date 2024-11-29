@@ -6,7 +6,7 @@ import '../styles/Portfolio.css';
 const Portfolio = () => {
     const projects = [
         {
-            title: 'Tiny Steps',
+            title: 'Tiny-Steps',
             image: '/TinySteps.png',
             deployedLink: 'https://tiny-steps-baby-blog.onrender.com/',
             repoLink: 'https://github.com/agrove21/tiny-steps-baby-blog',
@@ -18,22 +18,22 @@ const Portfolio = () => {
             repoLink: 'https://github.com/Hayden-Cook/Weather-Dash',
         },
         {
-            title: 'Project 3',
-            image: 'project1.png',
-            deployedLink: '',
-            repoLink: '',
+            title: 'Express-Note-Taker',
+            image: '/NoteTaker.png',
+            deployedLink: 'https://challenge-11-204g.onrender.com/',
+            repoLink: 'https://github.com/Hayden-Cook/Challenge-11',
         },
         {
-            title: 'Project 4',
-            image: 'project1.png',
-            deployedLink: '',
-            repoLink: '',
+            title: 'Just-Another-Text-Editor',
+            image: '/TextEditor.png',
+            deployedLink: 'https://challenge-19-text-editor-xkxl.onrender.com/',
+            repoLink: 'https://github.com/Hayden-Cook/Challenge-19-PWA-Text-Editor',
         },
         {
-            title: 'Project 5',
-            image: 'project1.png',
-            deployedLink: '',
-            repoLink: '',
+            title: 'Employee-Payroll-Tracker',
+            image: '/PayrollTracker.png',
+            deployedLink: 'https://hayden-cook.github.io/module-03-challenge/',
+            repoLink: 'https://github.com/Hayden-Cook/module-03-challenge',
         },
         {
             title: 'Project 6',

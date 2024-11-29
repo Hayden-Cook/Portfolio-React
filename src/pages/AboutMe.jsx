@@ -7,7 +7,7 @@ const AboutMe = () => {
     return (
         <section>
             <h2>About Me</h2>
-            <img src="../public/ProfilePic.png" alt="Hayden Cook's picture" />
+            <img src="/ProfilePic.png" alt="Hayden Cook's picture" />
             <p>Insert a short bio about yourself...</p>
         </section>
     );
