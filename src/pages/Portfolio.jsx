@@ -36,10 +36,10 @@ const Portfolio = () => {
             repoLink: 'https://github.com/Hayden-Cook/module-03-challenge',
         },
         {
-            title: 'Project 6',
-            image: 'project1.png',
-            deployedLink: '',
-            repoLink: '',
+            title: 'Raining-Facts-&-Dogs',
+            image: '/Facts&Dogs.png',
+            deployedLink: 'https://nmck-sys.github.io/ProjectOne/',
+            repoLink: 'https://github.com/nmck-sys/ProjectOne',
         },
         // COPY THIS OBJECT AND ADD MORE PROJECTS WHEN READY
     ];

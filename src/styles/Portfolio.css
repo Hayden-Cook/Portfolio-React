@@ -3,15 +3,17 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
     padding: 0rem;
+    margin: 0 auto;
 }
 
 .project {
     background-color: #f9f9f9;
-    padding: 1rem;
+    padding: 0.5rem;
     border-radius: 0.5rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: center;
     transition: transform 0.2s ease-in-out;
+    margin-bottom: 0.5rem;
 }
 
 .project:hover {
@@ -25,12 +27,12 @@
 
 .project h3 {
     font-size: 1.2rem;
-    margin-bottom: 0.5rem;
     text-decoration: underline;
+    color: black;
+    margin-top: 1rem;
 }
 
 .project a {
-    margin-top: 0.5rem;
     text-decoration: none;
     color: #333;
     font-weight: bold;
@@ -40,4 +42,5 @@
 h2 {
     text-align: center;
     margin: 5px;
+    color: white;
 }

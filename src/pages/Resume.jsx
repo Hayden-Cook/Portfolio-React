@@ -6,7 +6,16 @@ const Resume = () => {
     return (
         <section>
             <h2>Resume</h2>
-            <p>Insert a resume here...</p>
+            <p>You can view or download my resume by clicking the link below:</p>
+            <a
+                href="/resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="resume-link"
+            >
+                View My Resume (PDF)
+            </a>
+
             <h3>Proficiencies</h3>
             <ul>
                 <li>HTML</li>
@@ -17,6 +26,9 @@ const Resume = () => {
                 <li>Express.js</li>
                 <li>SQL</li>
                 <li>MongoDB</li>
+                <li>APIs</li>
+                <li>Git</li>
+                <li>PWAs</li>
             </ul>
         </section>
     );
