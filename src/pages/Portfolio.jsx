@@ -41,7 +41,7 @@ const Portfolio = () => {
             deployedLink: 'https://nmck-sys.github.io/ProjectOne/',
             repoLink: 'https://github.com/nmck-sys/ProjectOne',
         },
-        // COPY THIS OBJECT AND ADD MORE PROJECTS WHEN READY
+
     ];
 
     return (
