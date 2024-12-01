@@ -1,8 +1,27 @@
-# React + Vite
+# Portfolio-React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+To showcase the skills I have learned about React, I built a portfolio of past projects that I have completed. In order to complete this portfolio, I created a new project using vite. I hope this portfolio will set me apart from other developers and increase my chances of working with fellow developers and collaborating on new projects. 
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Questions](#questions)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+To install the necessary packages, clone this repo to your local terminal and run "npm install".
+
+## Usage
+After the packages have been installed, you can run this using "npm run dev".
+
+## Screenshots
+![Screenshot](https://github.com/Hayden-Cook/Portfolio-React/blob/main/public/screenshotimages/AboutMeScreenshot.png)
+![Screenshot](https://github.com/Hayden-Cook/Portfolio-React/blob/main/public/screenshotimages/PortfolioScreenshot.png)
+![Screenshot](https://github.com/Hayden-Cook/Portfolio-React/blob/main/public/screenshotimages/ContactScreenshot.png)
+![Screenshot](https://github.com/Hayden-Cook/Portfolio-React/blob/main/public/screenshotimages/ResumeScreenshot.png)
+
+## Questions
+If you have any questions, please feel free to contact me:
+  - Email: [haydencook97@yahoo.com](mailto:haydencook97@yahoo.com)
+  - GitHub: [Hayden-Cook](https://github.com/Hayden-Cook)
