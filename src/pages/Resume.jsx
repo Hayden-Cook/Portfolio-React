@@ -8,7 +8,7 @@ const Resume = () => {
             <h2>Resume</h2>
             <p>You can view or download my resume by clicking the link below:</p>
             <a
-                href="/resume.pdf"
+                href="/Full-Stack-Resume2024.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="resume-link"
