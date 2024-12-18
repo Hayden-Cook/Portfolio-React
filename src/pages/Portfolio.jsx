@@ -6,16 +6,16 @@ import '../styles/Portfolio.css';
 const Portfolio = () => {
     const projects = [
         {
+            title: 'Gamer-Bud',
+            image: '/Gamer-Bud.png',
+            deployedLink: 'https://gamer-bud-fbdv.onrender.com/',
+            repoLink: 'https://github.com/Teacher2Coder/gamer-bud',
+        },
+        {
             title: 'Tiny-Steps',
             image: '/TinySteps.png',
             deployedLink: 'https://tiny-steps-baby-blog.onrender.com/',
             repoLink: 'https://github.com/agrove21/tiny-steps-baby-blog',
-        },
-        {
-            title: 'Weather-Dash',
-            image: '/WeatherDash.png',
-            deployedLink: 'https://hayden-cook.github.io/Weather-Dash/',
-            repoLink: 'https://github.com/Hayden-Cook/Weather-Dash',
         },
         {
             title: 'Express-Note-Taker',
@@ -24,10 +24,10 @@ const Portfolio = () => {
             repoLink: 'https://github.com/Hayden-Cook/Challenge-11',
         },
         {
-            title: 'Just-Another-Text-Editor',
-            image: '/TextEditor.png',
-            deployedLink: 'https://challenge-19-text-editor-xkxl.onrender.com/',
-            repoLink: 'https://github.com/Hayden-Cook/Challenge-19-PWA-Text-Editor',
+            title: 'Weather-Dash',
+            image: '/WeatherDash.png',
+            deployedLink: 'https://hayden-cook.github.io/Weather-Dash/',
+            repoLink: 'https://github.com/Hayden-Cook/Weather-Dash',
         },
         {
             title: 'Employee-Payroll-Tracker',
